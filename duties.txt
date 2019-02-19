@@ -1,0 +1,31 @@
+Gerson A Lopez Bazan
+- Built Graphic User Interface package for phase2.
+- Created Super class User so TransitUser and AdminUser inherit from it.
+- Created Reader.java to read log.txt.
+- Created Distance.java to calculate distance between stations and stops using longitude and latitude.
+- Changed class FareCollector to InfoCollector to collect more statistics
+REFERENCES
+- To Calculate the Distance, I used the algorithm of this site https://www.movable-type.co.uk/scripts/latlong.html
+- for the Background image https://llamabagel.ca/wordpress/?p=69
+- for the GUI Interface, I used this tutorial website https://docs.oracle.com/javase/tutorial/uiswing/learn/index.html
+
+Guanhao ZHAO & Yuanrui He
+- Created the Super class TransitNode so that BusStop and SubwayStation inherit from the super class.
+- Created the Super class TransitPath so that BusRoute and SubwayLine inherit from the super class.
+- Created the Super class TransitSystem so that BusSystem and SubwaySystem inherit from the super class.
+(The above three  super classes are used for expandable design.)
+
+Guanhao ZHAO
+- Created Writer.java to write data to log.txt
+- Added/modified methods in Bus/Subway-related classes to meet the needs of optimized tapIn/tapOut.
+- Declared JavaDoc for all classes in the program.
+- Created Design.pdf to indicate the relation among classes in the program.
+REFERENCES
+- To append text to an existing file, I looked up the site:
+    https://stackoverflow.com/questions/1625234/how-to-append-text-to-an-existing-file-in-java
+
+Jun Wei Wong
+-Improved the functionality of TransitCard to check for invalid input so that it handles as much misuse as possible.
+-Improved the overall design of TransitCard and TransitUser class for readability and easy expansion.
+-Expanded TransitUser class with extra feature for data collection.
+-Created TransitTrip class as the parent class of SubwayTrip and BusTrip for easy extension.

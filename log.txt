@@ -1,0 +1,196 @@
+NewDay,07/01/2018
+New,Admin,Gerson Lopez,gerson.lopez@gmail.com,High,gerson
+New,Admin,Zhao Guanhao,zhao.guanhao@gmail.com,Low,zhao
+New,Admin,Jaron He,jaron.he@gmail.com,Medium,jaron
+New,Admin,Jun Wei,Jun.wei@gmail.com,Medium,jun
+New,Cardholder,Joanne Moore,joanne.moore@gmail.com,1530417600000,joanne,-755982000000
+New,Cardholder,Stephanie Williams,stephanie.williams@gmail.com,1530417600000,stephanie,177739200000
+New,Cardholder,Robert Baker,robert.baker@gmail.com,1530417600000,robert,500187600000
+New,Cardholder,Doris Morgan,doris.morgan@gmail.com,1530417600000,doris,-746654400000
+New,Cardholder,Alex Russell,alex.russell@gmail.com,1530417600000,alex,1063339200000
+AddCard,joanne.moore@gmail.com,1200,50.0
+AddCard,stephanie.williams@gmail.com,1201,50.0
+AddCard,robert.baker@gmail.com,1202,50.0
+AddCard,doris.morgan@gmail.com,1203,50.0
+AddCard,alex.russell@gmail.com,1204,50.0
+AddCard,alex.russell@gmail.com,1205,50.0
+NewDay,07/02/2018
+AddCredit,1200,50.0
+AddCredit,1201,50.0
+AddCredit,1202,50.0
+AddCredit,1203,50.0
+AddCredit,1204,50.0
+AddCredit,1205,50.0
+EnterSubway,1200,Kipling,Line2,1530531000000
+ExitSubway,1200,High Park,Line2,1530531900000
+EnterSubway,1200,Keele,Line2,1530534600000
+ExitSubway,1200,Broadview,Line2,1530535500000
+EnterSubway,1203,Museum,Line1,1530540000000
+ExitSubway,1203,St Andrew,Line1,1530540600000
+EnterBus,1202,37,Route26Dupont,1530549900000
+ExitBus,1202,334,Route26Dupont,1530550500000
+EnterBus,1202,334,Route6Bay,1530551400000
+ExitBus,1202,267,Route6Bay,1530552600000
+NewDay,07/03/2018
+EnterBus,1200,1021,Route26Dupont,1530615600000
+ExitBus,1200,1027,Route26Dupont,1530616800000
+EnterSubway,1200,Dupont,Line1,1530617100000
+ExitSubway,1200,Queen's Park,Line1,1530617700000
+EnterSubway,1204,Summerhill,Line1,1530617760000
+ExitSubway,1204,Dundas,Line1,1530618540000
+EnterBus,1200,37,Route26Dupont,1530636300000
+ExitBus,1200,334,Route26Dupont,1530636900000
+EnterSubway,1204,Dundas,Line1,1530643440000
+ExitSubway,1204,Summerhill,Line1,1530644340000
+EnterBus,1202,260,Route6Bay,1530646500000
+ExitBus,1202,15037,Route6Bay,1530647400000
+EnterSubway,1202,Union,Line1,1530648000000
+ExitSubway,1202,Summerhill,Line1,1530649500000
+NewDay,07/04/2018
+EnterSubway,1200,Kipling,Line2,1530702015000
+ExitSubway,1200,Keele,Line2,1530703200000
+EnterSubway,1201,Kipling,Line2,1530705600000
+ExitSubway,1201,Kennedy,Line2,1530710100000
+EnterBus,1200,232,Route6Bay,1530712800000
+ExitBus,1200,15320,Route6Bay,1530714000000
+EnterSubway,1202,Dupont,Line1,1530716400000
+ExitSubway,1202,Museum,Line1,1530717300000
+EnterSubway,1203,St George,Line1,1530717600000
+ExitSubway,1203,Union,Line1,1530718200000
+EnterBus,1203,15037,Route6Bay,1530718500000
+ExitBus,1203,15320,Route6Bay,1530719100000
+EnterSubway,1205,Jane,Line2,1530726356000
+ExitSubway,1205,Bathurst,Line2,1530728400000
+EnterSubway,1201,Kennedy,Line2,1530730800000
+ExitSubway,1201,Kipling,Line2,1530735300000
+NewDay,07/05/2018
+EnterSubway,1204,College,Line1,1530792600000
+ExitSubway,1204,Bloor,Line1,1530792900000
+EnterBus,1200,956,Route6Bay,1530793800000
+ExitBus,1200,1465,Route6Bay,1530794400000
+EnterBus,1202,14720,Route30Lambton,1530794700000
+ExitBus,1202,14695,Route30Lambton,1530798300000
+EnterSubway,1201,King,Line1,1530801000000
+ExitSubway,1201,Museum,Line1,1530802200000
+EnterBus,1205,5017,Route30Lambton,1530800700000
+ExitBus,1205,5118,Route30Lambton,1530802200000
+EnterSubway,1204,Bloor,Line1,1530821400000
+ExitSubway,1204,College,Line1,1530821700000
+EnterBus,1200,956,Route6Bay,1530822600000
+ExitBus,1200,1465,Route6Bay,1530823200000
+EnterSubway,1201,Museum,Line1,1530822600000
+ExitSubway,1201,King,Line1,1530823800000
+NewDay,07/06/2018
+EnterSubway,1202,Downsview Park,Line1,1530879300000
+ExitSubway,1202,St Patrick,Line1,1530880500000
+EnterBus,1203,14720,Route30Lambton,1530879900000
+ExitBus,1203,14695,Route30Lambton,1530881400000
+EnterSubway,1203,High Park,Line2,1530881700000
+ExitSubway,1203,Bay,Line2,1530883200000
+EnterSubway,1200,Yorkdale,Line1,1530882600000
+ExitSubway,1200,Queen's Park,Line1,1530883500000
+EnterBus,1205,14701,Route26Dupont,1530883200000
+ExitBus,1205,1027,Route26Dupont,1530885300000
+EnterBus,1201,23,Route26Dupont,1530887640000
+ExitBus,1201,1004,Route26Dupont,1530888300000
+EnterSubway,1204,St Patrick,Line1,1530888000000
+ExitSubway,1204,Queen,Line1,1530888900000
+EnterSubway,1203,Bay,Line2,1530910500000
+ExitSubway,1203,High Park,Line2,1530912000000
+EnterSubway,1200,Queen's Park,Line1,1530910860000
+ExitSubway,1200,Yorkdale,Line1,1530912300000
+EnterSubway,1204,Queen,Line1,1530916800000
+ExitSubway,1204,St Patrick,Line1,1530917700000
+NewDay,07/07/2018
+EnterSubway,1200,Kipling,Line2,1530961215000
+ExitSubway,1200,Keele,Line2,1530962400000
+EnterSubway,1201,Kipling,Line2,1530964800000
+ExitSubway,1201,Kennedy,Line2,1530965700000
+EnterBus,1200,232,Route6Bay,1530972000000
+ExitBus,1200,15320,Route6Bay,1530973200000
+EnterSubway,1202,Dupont,Line1,1530975600000
+ExitSubway,1202,Museum,Line1,1530976500000
+EnterSubway,1203,St George,Line1,1530976800000
+ExitSubway,1203,Union,Line1,1530977400000
+EnterBus,1203,15037,Route6Bay,1530977700000
+ExitBus,1203,15320,Route6Bay,1530978300000
+EnterSubway,1205,Jane,Line2,1530985556000
+ExitSubway,1205,Bathurst,Line2,1530987600000
+EnterSubway,1201,Kennedy,Line2,1530990000000
+ExitSubway,1201,Kipling,Line2,1530994500000
+NewDay,07/08/2018
+EnterSubway,1200,Kipling,Line2,1531047615000
+ExitSubway,1200,Keele,Line2,1531048800000
+EnterSubway,1201,Kipling,Line2,1531051200000
+ExitSubway,1201,Kennedy,Line2,1531052100000
+EnterBus,1200,232,Route6Bay,1531058400000
+ExitBus,1200,15320,Route6Bay,1531059600000
+EnterSubway,1202,Dupont,Line1,1531062000000
+ExitSubway,1202,Museum,Line1,1531062900000
+EnterSubway,1203,St George,Line1,1531063200000
+ExitSubway,1203,Union,Line1,1531063800000
+EnterBus,1203,15037,Route6Bay,1531064100000
+ExitBus,1203,15320,Route6Bay,1531064700000
+EnterSubway,1205,Jane,Line2,1531071956000
+ExitSubway,1205,Bathurst,Line2,1531074000000
+EnterSubway,1201,Kennedy,Line2,1531076400000
+ExitSubway,1201,Kipling,Line2,1531080900000
+NewDay,07/09/2018
+EnterSubway,1204,College,Line1,1531138200000
+ExitSubway,1204,Bloor,Line1,1531138500000
+EnterBus,1200,956,Route6Bay,1531139400000
+ExitBus,1200,1465,Route6Bay,1531140000000
+EnterBus,1202,14720,Route30Lambton,1531140300000
+ExitBus,1202,14695,Route30Lambton,1531143900000
+EnterSubway,1201,King,Line1,1531146600000
+ExitSubway,1201,Museum,Line1,1531147800000
+EnterBus,1205,5017,Route30Lambton,1531146300000
+ExitBus,1205,5118,Route30Lambton,1531147800000
+EnterSubway,1204,Bloor,Line1,1531167000000
+ExitSubway,1204,College,Line1,1531167300000
+EnterBus,1200,956,Route6Bay,1531168200000
+ExitBus,1200,1465,Route6Bay,1531168800000
+EnterSubway,1201,Museum,Line1,1531168200000
+ExitSubway,1201,King,Line1,1531169400000
+NewDay,07/10/2018
+EnterSubway,1202,Downsview Park,Line1,1531224900000
+ExitSubway,1202,St Patrick,Line1,1531226100000
+EnterBus,1203,14720,Route30Lambton,1531225500000
+ExitBus,1203,14695,Route30Lambton,1531227000000
+EnterSubway,1203,High Park,Line2,1531227300000
+ExitSubway,1203,Bay,Line2,1531228800000
+EnterSubway,1200,Yorkdale,Line1,1531228200000
+ExitSubway,1200,Queen's Park,Line1,1531229100000
+EnterBus,1205,14701,Route26Dupont,1531228800000
+ExitBus,1205,1027,Route26Dupont,1531230900000
+EnterBus,1201,23,Route26Dupont,1531233240000
+ExitBus,1201,1004,Route26Dupont,1531233900000
+EnterSubway,1204,St Patrick,Line1,1531233600000
+ExitSubway,1204,Queen,Line1,1531234500000
+EnterSubway,1203,Bay,Line2,1531256100000
+ExitSubway,1203,High Park,Line2,1531257600000
+EnterSubway,1200,Queen's Park,Line1,1531257000000
+ExitSubway,1200,Yorkdale,Line1,1531257900000
+EnterSubway,1204,Queen,Line1,1531262400000
+ExitSubway,1204,St Patrick,Line1,1531263300000
+NewDay,07/11/2018
+EnterBus,1201,235,Route6Bay,1531311300000
+ExitBus,1201,242,Route6Bay,1531312500000
+EnterSubway,1204,Spadina,Line2,1531313700000
+ExitSubway,1204,Kipling,Line2,1531315200000
+EnterBus,1204,940,Route6Bay,1531321200000
+ExitBus,1204,267,Route6Bay,1531323000000
+EnterBus,1202,15037,Route6Bay,1531323300000
+ExitBus,1202,15320,Route6Bay,1531324800000
+NewDay,07/12/2018
+EnterSubway,1201,Bay,Line2,1531393200000
+ExitSubway,1201,Coxwell,Line2,1531395000000
+EnterBus,1200,30,Route26Dupont,1531394400000
+ExitBus,1200,1002,Route26Dupont,1531395600000
+EnterSubway,1201,Coxwell,Line2,1531398000000
+ExitSubway,1201,Yonge,Line2,1531398480000
+EnterSubway,1202,Lawrence,Line1,1531401780000
+ExitSubway,1202,King,Line1,1531403160000
+EnterSubway,1202,King,Line1,1531414800000
+ExitSubway,1202,Lawrence,Line1,1531416180000
+NewDay,07/13/2018
